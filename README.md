@@ -12,12 +12,12 @@ SO THAT my company can compete with other e-commerce companies`
 
 
 ## Usage 
-This application will allow users to view, add, edit, and delete categories, products, and tags.![Uploading Untitled_ Jul 25, 2022 9_30 PM.gif…]
+This application will allow users to view, add, edit, and delete categories, products, and tags.!
 
 
 ## Demo
 View video to see MySQL walk through via [Screencastify](https://drive.google.com/file/d/1iFE5LiC9V9tkyRt01v_yAefsITxNlys5/view)<br>
-View video to walk through of the API routes [Screencastify](https://drive.google.com/file/d/1ny-vMLRFZNADDKHIhJcD_-zoNWgwF0NO/view)<br>
+View video to walk through of the API routes [Screencastify](https://drive.google.com/file/d/1ny-vMLRFZNADDKHIhJcD_-zoNWgwF0New)<br>
 View video to see Insomnia walk through via [Screencastify](https://drive.google.com/file/d/1PiP2cw1uoQikAiiCwLpuO1Ehi0V44CKj/view)
 
 ## Installation 
