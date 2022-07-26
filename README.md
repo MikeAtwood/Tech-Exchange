@@ -3,8 +3,10 @@
 ## Description
 This application is the back-end for an e-commerce site. Built using MySQL2 along with Express.js, dotenv and Sequelize.
 
+![Untitled_ Jul 25, 2022 9_30 PM](https://user-images.githubusercontent.com/103971335/180914720-8f19c25a-9cc6-4e93-9124-9107d7056bc7.gif)
 
-(https://drive.google.com/file/d/1PiP2cw1uoQikAiiCwLpuO1Ehi0V44CKj.gif)
+
+
 
 
 ## User Story
