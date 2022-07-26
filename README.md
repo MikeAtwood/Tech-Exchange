@@ -4,7 +4,7 @@
 This application is the back-end for an e-commerce site. Built using MySQL2 along with Express.js, dotenv and Sequelize.
 
 
-[](https://drive.google.com/file/d/1PiP2cw1uoQikAiiCwLpuO1Ehi0V44CKj.gif)
+(https://drive.google.com/file/d/1PiP2cw1uoQikAiiCwLpuO1Ehi0V44CKj.gif)
 
 
 ## User Story
